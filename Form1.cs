@@ -1,14 +1,6 @@
-﻿/****************************************************************************
-**					      SAKARYA ÜNİVERSİTESİ                             
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ                  
-**				     BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ                        
-**				    NESNEYE DAYALI PROGRAMLAMA DERSİ                       
-**					     2019-2020 BAHAR DÖNEMİ                            
-**	                                                                      
-**				ÖDEV NUMARASI....3......:                              
-**				ÖĞRENCİ ADI...HONEST ALBERT TEMU.........:                             
-**				ÖĞRENCİ NUMARASI...B181210561....:                            
-**              DERSİN ALINDIĞI GRUP..A.:                               
+﻿/****************************************************************************           
+			Name:...HONEST ALBERT TEMU.........                         
+                          
 ****************************************************************************/
 
 using System;
